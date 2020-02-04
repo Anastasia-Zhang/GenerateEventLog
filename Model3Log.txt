@@ -1,0 +1,21 @@
+ L Q v 7 v r
+ L Q v r
+ L V v 7 v r
+ L V v r
+ L v 7 Q v r
+ L v 7 V v r
+ L v 7 v Q r
+ L v 7 v V r
+ L v Q 7 v r
+ L v Q r
+ L v V 7 v r
+ L v V r
+
+ L Q v 7 v r
+ L Q v r
+ L V v 7 v r
+ L V v r
+ L v Q 7 v r
+ L v Q r
+ L v V 7 v r
+ L v V r
